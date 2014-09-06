@@ -1,4 +1,4 @@
-homekit-rpi
-===========
+homekit-bridge
+==============
 
-HomeKit Bridge Accessory for a Raspberry Pi
+HomeKit Accessory Protocol Bridge on a Raspberry Pi
