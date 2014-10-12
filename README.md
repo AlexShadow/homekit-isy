@@ -1,4 +1,4 @@
-homekit-bridge
-==============
+homekit-isy
+===========
 
-HomeKit Accessory Protocol Bridge on a Raspberry Pi
+HomeKit Accessory Protocol Bridge for the ISY
