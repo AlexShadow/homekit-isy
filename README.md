@@ -13,8 +13,6 @@ HomeKit Resources
 [Apple MFi Program](https://developer.apple.com/programs/mfi/)  
 [HomeKit Accessory Protocol](https://gist.github.com/pieceofsummer/13272bf76ac1d6b58a30)  
 
-<embed src="http://devstreaming.apple.com/videos/wwdc/2014/101xx36lr6smzjo/101/101_sd.mov" width="640" height="380" controller="true" autoplay="false" starttime="1:34:39:00.0" endtime="1:35:41:00.0" bgcolor="white">  
-
 iOS HomeKit Applications
 ------------------------
 [Mobilinc Home](http://mobilinc.com)  
@@ -34,11 +32,11 @@ Serial Number: 0000000012345678 `</proc/cpuinfo Serial>`
 
 ISY Accessory Information Service Example  
 -----------------------------------------
-Name: ISY994i Series `<configuration><model>`   
+Name: ISY 994i 1024 IR `<configuration><product><desc>`   
 Manufacturer: Universal Devices Inc. `<configuration><make>`   
-Model: ISY 994i 1024 IR `<configuration><product><desc>`     
+Model: ISY994i Series `<configuration><model>`     
 Serial Number: 01:02:03:0a:0b:0c `<configuration><root><id>`   
-Version: 4.2.16 `<app_version>`   
+Version: 4.2.16 `<configuration><app_version>`   
 
 
 
