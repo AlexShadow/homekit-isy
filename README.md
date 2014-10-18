@@ -25,6 +25,25 @@ ISY Resources
 [Universal Devices WSDK and RESTful API](http://www.universal-devices.com/developers/wsdk/)  
 [Universal Devices Forum](http://forum.universal-devices.com)  
 
+HAP Bridge Information Service Example  
+--------------------------------------
+Name: HAP Bridge RPi B
+Manufacturer: raspberrypi.org
+Model: B
+Serial Number: 0000000012345678 `</proc/cpuinfo Serial>`
+
+ISY Accessory Information Service Example  
+-----------------------------------------
+Name: ISY994i Series `<configuration><model>` 
+Manufacturer: Universal Devices Inc. `<configuration><make>` 
+Model: ISY 994i 1024 IR `<configuration><product><desc>`   
+Serial Number: 01:02:03:0a:0b:0c `<configuration><root><id>` 
+Version: 4.2.16 `<app_version>`   
+
+
+
+
+
 
 
 
