@@ -13,7 +13,7 @@ HomeKit Resources
 [Apple MFi Program](https://developer.apple.com/programs/mfi/)  
 [HomeKit Accessory Protocol](https://gist.github.com/pieceofsummer/13272bf76ac1d6b58a30)  
 
-<embed src="http://devstreaming.apple.com/videos/wwdc/2014/101xx36lr6smzjo/101/101_sd.mov" width="640" height="380" controller="true" autoplay="false" starttime="1:34:30:00.0" endtime="1:35:44:00.0" bgcolor="white"> 
+<embed src="http://devstreaming.apple.com/videos/wwdc/2014/101xx36lr6smzjo/101/101_sd.mov" width="640" height="380" controller="true" autoplay="false" starttime="1:34:39:00.0" endtime="1:35:41:00.0" bgcolor="white">  
 
 iOS HomeKit Applications
 ------------------------
