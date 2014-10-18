@@ -15,9 +15,6 @@ HomeKit Resources
 
 <embed src="http://devstreaming.apple.com/videos/wwdc/2014/101xx36lr6smzjo/101/101_sd.mov" width="640" height="380" controller="true" autoplay="false" starttime="1:34:30:00.0" endtime="1:35:44:00.0" bgcolor="white"> 
 
-<div class="erato-range"><a data-range="761,979" name="761,979"></a></div><p><embed src="http://devstreaming.apple.com/videos/wwdc/2014/101xx36lr6smzjo/101/101_sd.mov" width="640" height="380" controller="true" autoplay="false" starttime="1:34:30:00.0" endtime="1:35:44:00.0" bgcolor="white">
-
-
 iOS HomeKit Applications
 ------------------------
 [Mobilinc Home](http://mobilinc.com)  
