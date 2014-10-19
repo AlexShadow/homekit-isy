@@ -6,7 +6,7 @@ HomeKit Accessory Protocol Bridge for the Universal Devices ISY Series of home a
 HomeKit Resources
 -----------------
 
-[WWDC14 - Keynote](https://developer.apple.com/videos/wwdc/14/#101) (1:34:39)  
+[WWDC14 - Keynote](https://developer.apple.com/videos/wwdc/2014/?include=101#101) (1:34:39)  
 [WWDC14 - Introduction to HomeKit](https://developer.apple.com/videos/wwdc/2014/?include=213#213)  
 [WWDC14 - Designing Accessories for iOS and OS X](https://developer.apple.com/videos/wwdc/2014/?include=701#701) (24:08)  
 [HomeKit Human Interface Guidelines](https://developer.apple.com/homekit/ui-guidelines/)  
