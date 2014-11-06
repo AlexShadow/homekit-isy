@@ -11,7 +11,7 @@ HomeKit Resources
 [WWDC14 - Designing Accessories for iOS and OS X](https://developer.apple.com/videos/wwdc/2014/?include=701#701) (24:08)  
 [HomeKit Human Interface Guidelines](https://developer.apple.com/homekit/ui-guidelines/)  
 [HomeKit Framework Reference](https://developer.apple.com/library/ios/documentation/HomeKit/Reference/HomeKit_Framework/)   
-[HomeKit Accessory Protocol](https://gist.github.com/pieceofsummer/13272bf76ac1d6b58a30)  
+[HomeKit Accessory Protocol](https://idmsa.apple.com/IDMSWebAuth/classicLogin.html?appIdKey=393f377d512d857e3afd5b297af56b5e66825a22397b1b788e4bb6690994f4e2&sslEnabled=true&rv=1&path=/MFiWeb/signin.action) (Requires MFi Account)    
 [Hardware IO Tools for Xcode - HomeKit Accessory Simulator](https://developer.apple.com/downloads/index.action) (Requires iOS Developer Account)  
 
 iOS HomeKit Applications
