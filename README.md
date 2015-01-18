@@ -19,6 +19,9 @@ iOS HomeKit Applications
 [Mobilinc Home](http://mobilinc.com)  
 [![Video](http://img.youtube.com/vi/zKq7egvgbmU/hqdefault.jpg)](http://www.youtube.com/watch?v=zKq7egvgbmU)
 
+[SmartHome](http://smarthome.com)  
+[![Video](http://img.youtube.com/vi/l5UWvGjeuMc/hqdefault.jpg)](https://www.youtube.com/watch?v=l5UWvGjeuMc)
+
 ISY Resources
 -------------
 [Universal Devices WSDK and RESTful API](http://www.universal-devices.com/developers/wsdk/)  
